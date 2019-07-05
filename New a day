@@ -1,0 +1,13 @@
+<!DOCTYPE html> 
+<html> 
+<body> 
+<h1>I am coming! -Ray</h1> 
+<script> 
+a = 5; 
+b = 2; 
+c = 0;
+d = a + b +c; 
+console.log(d); 
+</script> 
+</body> 
+</html>
