@@ -1,2 +1,2 @@
-Web前端--仿写淘宝天猫商城
+Web前端--商城框架练习
 运用H5,CSS,JavaScript
